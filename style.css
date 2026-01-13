@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    padding: 10px;
+    width: 47px;
+    height: 47px;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    border: 1px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/* When you hover */
+.button:hover {
+    background-color: #d0d0d0;     /* slightly darker on hover */
+    transform: scale(1.05);        /* optional slight grow effect */
+}
+
+/* When you click (press down) */
+.button:active {
+    background-color: #c0c0c0;     /* even darker when pressed */
+    transform: scale(0.95);        /* shrink a bit = punch effect */
+    box-shadow: inset 2px 2px 4px rgba(0,0,0,0.3); /* gives a pressed look */
+}
