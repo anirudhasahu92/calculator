@@ -53,7 +53,7 @@ This is handled through a custom percentage parser before evaluation.
 ### 1. Clone or Download
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/anirudhasahu92/calculator.git
 ```
 
 Or simply download the folder.
