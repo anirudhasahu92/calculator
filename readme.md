@@ -2,6 +2,8 @@
 
 A simple, responsive, browser-based calculator built using **HTML, CSS, and JavaScript**. The project supports basic arithmetic operations and calculator-style percentage handling, with a clean UI and keyboard-like button interactions.
 
+![Calculator UI screenshot](Screenshot.jpg)
+
 ---
 
 ## Features
