@@ -88,10 +88,9 @@ No server setup required.
 
 ---
 
-## Author
+## Contributer
 
-**Anirudha Kumar Sahu**  
-Calculator Project – Web Development Practice
+Contributed to github by **Anirudha Kumar Sahu**  
 
 ---
 
